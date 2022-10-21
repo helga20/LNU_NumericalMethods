@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Чисельні методи\Практичні\01\2 частина\Kravets_Olha_var9_part2_hord\Kravets_Olha_var9_part2_hord\main.cpp(48,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\STOP! Небезпечно для життя\А я попереджала\Чисельні методи\Практичні\01\2 частина\Kravets_Olha_var9_part2_hord\Kravets_Olha_var9_part2_hord\main.cpp(54,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Kravets_Olha_var9_part2_hord.vcxproj -> D:\STOP! Небезпечно для життя\А я попереджала\Чисельні методи\Практичні\01\2 частина\Kravets_Olha_var9_part2_hord\Debug\Kravets_Olha_var9_part2_hord.exe

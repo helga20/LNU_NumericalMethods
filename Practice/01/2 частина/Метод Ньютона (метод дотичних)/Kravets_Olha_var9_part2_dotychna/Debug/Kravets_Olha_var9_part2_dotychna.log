@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Чисельні методи\Практичні\01\2 частина\Kravets_Olha_var9_part2_dotychna\Kravets_Olha_var9_part2_dotychna\main.cpp(67,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\STOP! Небезпечно для життя\А я попереджала\Чисельні методи\Практичні\01\2 частина\Kravets_Olha_var9_part2_dotychna\Kravets_Olha_var9_part2_dotychna\main.cpp(35,27): warning C4101: 'k': unreferenced local variable
+D:\STOP! Небезпечно для життя\А я попереджала\Чисельні методи\Практичні\01\2 частина\Kravets_Olha_var9_part2_dotychna\Kravets_Olha_var9_part2_dotychna\main.cpp(35,9): warning C4101: 'x': unreferenced local variable
+  Kravets_Olha_var9_part2_dotychna.vcxproj -> D:\STOP! Небезпечно для життя\А я попереджала\Чисельні методи\Практичні\01\2 частина\Kravets_Olha_var9_part2_dotychna\Debug\Kravets_Olha_var9_part2_dotychna.exe
